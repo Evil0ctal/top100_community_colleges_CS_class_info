@@ -163,3 +163,137 @@ http://catalog.stanly.edu/curriculum-course-descriptions/csc/
 John Wood Community College computer science
 https://www.jwcc.edu/programs/courses/computer-science-and-math/computer-science/
 
+Northern Oklahoma College computer science
+https://noc.edu/assets/uploads/sites/740/2020/10/2020-2021-A.S.-in-Computer-Science-Pre-Professional.pdf
+
+Las Positas College computer science
+http://www.laspositascollege.edu/compstudies/cs/index.php
+
+Cuesta College computer science
+https://www.cuesta.edu/academics/wed/bused/cis/cis-catalog.html
+
+Waukesha County Technical College computer science
+https://www.wctc.edu/academics/programs/index.php
+
+North Dakota State College of Science computer science
+https://www.ndsu.edu/cs/
+
+Central Lakes College - Brainerd computer science
+http://www.clcmn.edu/computer-information-technology-a-a-s-degree-2/
+
+Southeastern Community College - Iowa computer science
+https://programs.scciowa.edu/2019-2020/courses/csc.aspx
+
+Santa Barbara City College computer science
+https://www.sbcc.edu/computerscience/
+
+Johnson County Community College computer science
+https://catalog.jccc.edu/coursedescriptions/cs/
+
+SOWELA Technical Community College computer science
+https://www.sowela.edu/programs/school-business-applied-technology/information-systems-technology/
+
+Lewis and Clark Community College computer science
+http://catalog.lc.edu/preview_program.php?catoid=11&poid=2191&returnto=672
+
+McFatter Technical College computer science
+https://www.mcfattertechnicalcollege.edu/
+
+Southeast Technical Institute computer science
+https://www.southeasttech.edu/programs/information-technology/computer-programming/index.php
+
+State Technical College of Missouri computer science
+https://www.statetechmo.edu/program/computer-application-development/
+
+Harper College computer science
+https://www.harpercollege.edu/academics/stem/computer-science/index.php
+
+Collins Career Technical Center computer science
+http://www.collins-cc.edu/highschool/oncampusprograms/technologyacademy/Networking/
+
+Wallace Community College - Dothan computer science
+https://www.wallacestate.edu/programs/academic-division/computer-science
+
+Southwest Mississippi Community College computer science
+https://www.smcc.edu/career-and-technical/computer-networking-technology.php
+
+University of South Carolina Sumter computer science
+https://sc.edu/about/system_and_campuses/sumter/study/degree_programs/index.php
+
+Southwest Wisconsin Technical College computer science
+https://www.swtc.edu/academics/programs/clusters/information-technology
+
+Florida Panhandle Technical College computer science
+https://computersciencedegree.io/colleges/florida-panhandle-technical-college/
+
+Minnesota State Community and Technical College computer science
+http://www.minnesota.edu/programs-and-degrees/computer-programming
+
+Holmes Community College computer science
+https://www.holmescc.edu/pdf/programs/academic/Computer%20Science-Computer%20Engineering.pdf
+
+Marion Technical College - Florida computer science
+http://mariontc.edu/
+
+Northwest Vista College computer science
+https://www.alamo.edu/nvc/academics/programs/comp-sci-tech-and-business/computer-science/
+
+San Jacinto College computer science
+https://www.sanjac.edu/program/computer-science
+
+Marion Military Institute computer science
+https://marionmilitary.edu/academics/faculty/
+
+Mountainland Technical College computer science
+https://mtec.edu/programs/introduction-to-programming/
+
+Ridgewater College computer science
+https://ridgewater.edu/academics/areas-of-study/information-technology/computer-programming-program/
+
+Northwood Technical College (formerly Wisconsin Indianhead Technical College) computer science
+https://www.northwoodtech.edu/
+
+Western Technical College computer science
+https://www.westerntc.edu/it-web-software-developer
+
+North Central Kansas Technical College computer science
+https://ncktc.edu/programs/information-technology/
+
+Manatee Technical Institute computer science
+https://www.manateetech.edu/career-prep/computer-systems-information-technology/
+
+Charlotte Technical Center - Adult Education computer science
+https://www.yourcharlotteschools.net/CTC
+
+Mitchell Technical College computer science
+https://www.mitchelltech.edu/programs/on-campus/engineering-technologies/information-systems-technology
+
+White Mountains Community College computer science
+https://www.wmcc.edu/academic-area/information-technology/
+
+Nebraska College of Technical Agriculture computer science
+https://ncta.unl.edu/
+
+Ohio State University Agricultural Technical Institute computer science
+https://ati.osu.edu/
+
+Indian Capital Technology Center - Muskogee computer science
+https://www.ictech.edu/
+
+Cloud County Community College computer science
+https://www.cloud.edu/academics/academic-departments/
+
+Fox Valley Technical College computer science
+https://www.fvtc.edu/programs/information-technology
+
+Western Iowa Tech Community College computer science
+https://www2.witcc.edu/technology/
+
+Lake Area Technical College computer science
+https://www.lakeareatech.edu/academics/on-campus-programs/computer-information-systems/
+
+University of South Carolina Lancaster computer science
+http://bulletin.usclancaster.sc.edu/preview_program.php?catoid=38&poid=1465
+
+New Mexico Military Institute computer science
+https://www.nmmi.edu/junior-college-program/

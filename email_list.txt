@@ -1,0 +1,270 @@
+Iowa Lakes Community College computer science
+['wmiller@iowalakes.edu']
+
+Ogeechee Technical College computer science
+['info@ogeecheetech.edu']
+
+Minnesota West Community & Technical College computer science
+[]
+
+Santa Rosa Junior College computer science
+['dharden@santarosa.edu']
+
+North Iowa Area Community College computer science
+[]
+
+Tennessee College of Applied Technology - Dickson computer science
+['rives@tcatdickson.edu', 'admissions@tcatdickson.edu', 'financialaid@tcatdickson.edu', 'workforce@tcatdickson.edu', 'veterans@tcatdickson.edu']
+
+New Mexico Junior College computer science
+['ashook@nmjc.edu']
+
+Lorenzo Walker Institute of Technology computer science
+['LWTC@collierschools.com']
+
+Northeast Alabama Community College computer science
+['hesterj@nacc.edu', 'masseyj@nacc.edu', 'millerb@nacc.edu']
+
+Manchester Community College - New Hampshire computer science
+[]
+
+Aims Community College computer science
+[]
+
+Mid-Plains Community College computer science
+['info@mpcc.edu']
+
+McLennan Community College computer science
+[]
+
+Sarasota County Technical Institute computer science
+['info@sarasotacountyschools.net', 'hritz@sarasotacountyschools.net', 'saul@sarasotacountyschools.net']
+
+Petersburg computer science
+[]
+
+Southeast Community College computer science
+[]
+
+Nicolet College computer science
+['webmaster@nicoletcollege.edu', 'inquire@nicoletcollege.edu']
+
+Hutchinson Community College computer science
+['marketing@hutchcc.edu', 'info@hutchcc.edu']
+
+De Anza College computer science
+['papemary@deanza.edu', 'trantrisha@fhda.edu']
+
+Barstow Community College computer science
+['info@barstow.edu', 'ftirwin@barstow.edu']
+
+Tennessee College of Applied Technology - Shelbyville computer science
+['admissions@tcatshelbyville.edu', 'financialaid@tcatshelbyville.edu', 'workforce@tcatshelbyville.edu', 'veterans@tcatshelbyville.edu']
+
+Lincoln Land Community College computer science
+['info@llcc.edu']
+
+Oakton Community College computer science
+['websupport@oakton.edu', 'websupport@oakton.edu']
+
+Dakota County Technical College computer science
+['lisa.ash@dctc.edu', 'betty.krueger@dctc.edu', 'judy.suddendorf@dctc.edu', 'nathan.blommel@dctc.edu', 'austin.allman@dctc.edu', 'chad.neuharth@dctc.edu']
+
+Montgomery College computer science
+['cs@montgomerycollege.edu', 'engineeringprogram@montgomerycollege.edu', 'MCCyberAdvising@montgomerycollege.edu', 'networkingprogram@montgomerycollege.edu']
+
+Wallace Community College computer science
+[]
+
+Southern Arkansas University Tech computer science
+['dacharya@sautech.edu']
+
+Santiago Canyon College - Orange computer science
+[]
+
+South Georgia Technical College computer science
+['aingram@southgatech.edu']
+
+Lamar Institute of Technology computer science
+['webmaster@lamar.edu']
+
+GateWay Community College computer science
+['enroll@gatewaycc.edu', 'rice@gatewaycc.edu']
+
+San Antonio College computer science
+['ttouchette@alamo.edu', 'portega@alamo.edu', 'lgarcia2@alamo.edu', 'dacosta4@alamo.edu', 'razuaje@alamo.edu', 'acardena1@alamo.edu', 'tfreese@alamo.edu', 'portega@alamo.edu', 'sjiang@alamo.edu', 'djoseph@alamo.edu', 'skolars@alamo.edu', 'mmatuszek@alamo.edu']
+
+Tennessee College of Applied Technology - Elizabethton computer science
+['franklin@tcatelizabethton.edu', 'admissions@tcatelizabethton.edu', 'financialaid@tcatelizabethton.edu', 'workforce@tcatelizabethton.edu', 'veterans@tcatelizabethton.edu']
+
+Central Wyoming College computer science
+[]
+
+Eastern Arizona College computer science
+['James.McBride@eac.edu', 'michael.fox@eac.edu', 'admissions@eac.edu']
+
+Kauaʻi Community College computer science
+[]
+
+Northcentral Technical College computer science
+[]
+
+Chippewa Valley Technical College computer science
+['servicedesk@cvtc.edu', 'therightchoice@cvtc.edu']
+
+Howard Community College computer science
+['DHDivisionoffice@howardcc.edu']
+
+Alexandria Technical & Community College computer science
+['go@alextech.edu']
+
+Tennessee College of Applied Technology - Newbern computer science
+['admissions@tcatnewbern.edu', 'financialaid@tcatnewbern.edu', 'workforce@tcatnewbern.edu', 'veterans@tcatnewbern.edu']
+
+Windward Community College computer science
+[]
+
+Northeast Wisconsin Technical College computer science
+['web.team@nwtc.edu']
+
+Orange Coast College computer science
+['gernsberger@occ.cccd.edu']
+
+Thaddeus Stevens College of Technology computer science
+['admissions@stevenscollege.edu']
+
+Elgin Community College computer science
+['AccessECC@elgin.edu']
+
+Amarillo College computer science
+['askac@actx.edu']
+
+Lake Land College computer science
+['hnohren@lakelandcollege.edu']
+
+Kapi'olani Community College computer science
+['kccstem@hawaii.edu']
+
+Pickens Technical College computer science
+[]
+
+Piedmont Virginia Community College computer science
+[]
+
+John Wood Community College computer science
+['admissions@jwcc.edu']
+
+Northern Oklahoma College computer science
+['kathleen.swain@noc.edu']
+
+Cuesta College computer science
+[]
+
+Waukesha County Technical College computer science
+[]
+
+North Dakota State College of Science computer science
+['kathleen.t.cox@ndsu.edu']
+
+Southeastern Community College - Iowa computer science
+[]
+
+Santa Barbara City College computer science
+[]
+
+Johnson County Community College computer science
+[]
+
+SOWELA Technical Community College computer science
+['info@sowela.edu', 'anyanwu@sowela.edu', 'fabian@sowela.edu']
+
+McFatter Technical College computer science
+[]
+
+Southeast Technical Institute computer science
+['admissions@southeasttech.edu']
+
+State Technical College of Missouri computer science
+['info@statetechmo.edu']
+
+Harper College computer science
+[]
+
+Wallace Community College - Dothan computer science
+['dsmith@wallace.edu', 'mkelly@wallace.edu']
+
+Southwest Mississippi Community College computer science
+['jlea@smcc.edu', 'jlea@smcc.edu']
+
+University of South Carolina Sumter computer science
+['suadmiss@uscsumter.edu']
+
+Southwest Wisconsin Technical College computer science
+['visit@swtc.edu']
+
+Florida Panhandle Technical College computer science
+[]
+
+Holmes Community College computer science
+['mpawlik@holmescc.edu', 'compliance@holmescc.edu']
+
+Northwest Vista College computer science
+['nvc-admissions@alamo.edu']
+
+San Jacinto College computer science
+['information@sjcd.edu', 'Sandra.Ramirez@sjcd.edu']
+
+Marion Military Institute computer science
+['eallison@marionmilitary.edu', 'jallison@marionmilitary.edu', 'kbrown@marionmilitary.edu', 'lbrown@marionmilitary.edu', 'bcastro@marionmilitary.edu', 'bcook@marionmilitary.edu', 'cdeason@marionmilitary.edu', 'mdoyle@marionmilitary.edu', 'tgatlin@marionmilitary.edu', 'mgimenez@marionmilitary.edu', 'mhodge@marionmilitary.edu', 'chughes@marionmilitary.edu', 'divey@marionmilitary.edu', 'gjohnson@marionmilitary.edu', 'cjones@marionmilitary.edu', 'pmccormick@marionmilitary.edu', 'cmeisenheimer@marionmilitary.edu', 'epainter@marionmilitary.edu', 'npeacock@marionmilitary.edu', 'aplummer@marionmilitary.edu', 'jroche@marionmilitary.edu', 'rsherling@marionmilitary.edu', 'dspewak@marionmilitary.edu', 'jspinks@marionmilitary.edu', 'bStiefel@marionmilitary.edu', 'jstone@marionmilitary.edu', 'bthomason@marionmilitary.edu', 'bwalters@marionmilitary.edu', 'xyang@marionmilitary.edu']
+
+Mountainland Technical College computer science
+[]
+
+Ridgewater College computer science
+[]
+
+Northwood Technical College (formerly Wisconsin Indianhead Technical College) computer science
+[]
+
+Western Technical College computer science
+['LearningCommons@westerntc.edu', 'AccessServices@westerntc.edu']
+
+North Central Kansas Technical College computer science
+['cisbell@ncktc.edu']
+
+Manatee Technical Institute computer science
+['parrishm@manateeschools.net']
+
+Charlotte Technical Center - Adult Education computer science
+['lisa.fair@yourcharlotteschools.net']
+
+Mitchell Technical College computer science
+['questions@mitchelltech.edu']
+
+White Mountains Community College computer science
+['wmcc@ccsnh.edu']
+
+Nebraska College of Technical Agriculture computer science
+[]
+
+Ohio State University Agricultural Technical Institute computer science
+['ati@osu.edu']
+
+Indian Capital Technology Center - Muskogee computer science
+[]
+
+Cloud County Community College computer science
+[]
+
+Fox Valley Technical College computer science
+[]
+
+Western Iowa Tech Community College computer science
+['info@witcc.edu']
+
+Lake Area Technical College computer science
+[]
+
+New Mexico Military Institute computer science
+['admissions@nmmi.edu']
+
